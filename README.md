@@ -1,4 +1,4 @@
-![Logo](./images/slike-bloga1/dove.png)
+![Logo](./images/slike-bloga1/logo.png)
 # Aplikacija za crtanje
 
 # Aplikacijom se može pisati
